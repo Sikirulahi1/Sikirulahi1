@@ -116,6 +116,8 @@
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="GitHub" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" />
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
  <!--- <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Bootstrap" src="https://www.svgrepo.com/show/353498/bootstrap.svg" /> -->
 <!---  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> -->
 <!---  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> -->
