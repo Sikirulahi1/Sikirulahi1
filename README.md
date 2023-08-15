@@ -29,7 +29,7 @@
 
 
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulkareem-sikirulahi-126234243/" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulkareem-sikirulahi-126234243" target="_blank">
     <img align="left" width="32" alt="LinkedIn" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
   </a>
     
