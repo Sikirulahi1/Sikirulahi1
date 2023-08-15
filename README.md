@@ -13,7 +13,7 @@
 
 <div markdown="1">
   <img align="left" src="https://komarev.com/ghpvc/?username=sikirulahi1&label=Profile%20views&color=0e75b6&style=flat" alt="sikirulahi1" />
-  <a href="https://wakatime.com/@2b20e24d-1c57-4cf5-9cc3-46773ec9ca8d"><img src="https://wakatime.com/badge/user/2b20e24d-1c57-4cf5-9cc3-46773ec9ca8d.svg" alt="Total time coded since Apr 3 2022" /></a>
+ <!-- <a href="https://wakatime.com/@2b20e24d-1c57-4cf5-9cc3-46773ec9ca8d"><img src="https://wakatime.com/badge/user/2b20e24d-1c57-4cf5-9cc3-46773ec9ca8d.svg" alt="Total time coded since Apr 3 2022" /></a> -->
 </div>
 
 
