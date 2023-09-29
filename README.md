@@ -91,7 +91,7 @@
 <details>
   <summary>:zap: Wakatime Stats</summary>
   <br>
-  <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=sikirulahi1&langs_count=10&theme=gruvbox&layout=compact" />
+  <img src="https://wakatime.com/share/@4c49f496-f55f-4e19-9611-df2a32846389/e9aedc46-2c22-42e5-82ef-c017dd1955c3.png" />
 </details>
 
 <br><br>
