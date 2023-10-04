@@ -88,11 +88,11 @@
   <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sikirulahi1&theme=gruvbox" />
 </details>
 
-<details>
+<!--<details>
   <summary>:zap: Wakatime Stats</summary>
   <br>
   <img src="https://wakatime.com/share/@4c49f496-f55f-4e19-9611-df2a32846389/e9aedc46-2c22-42e5-82ef-c017dd1955c3.png" />
-</details>
+</details>-->
 
 <br><br>
 
