@@ -1,7 +1,12 @@
-# Hi, I'm Addulkareem Sikirulahi 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/79dfd077-f916-484c-9982-3810503bf51b" alt="GitHub Header Image">
+</p>
+
+
+
 
 <p align="justify">
-A highly motivated and passionate Mechatronics student with hands-on experience applying cutting-edge technologies to solve real-world problems. Strong focus on <b>Artificial Intelligence</b>, <b>Data Science</b>, and <b>Robotics</b> with successful development and deployment of machine learning models. Expertise includes applications in <b>Computer Vision</b>, <b>Natural Language Processing (NLP)</b>, <b>Edge Computing</b> etc. Continuously learning and exploring new technologies, from AI Agents and Retrieval-Augmented Generation (RAG) to LLMs and Rust for systems programming.
+A highly motivated and passionate Mechatronics student with hands-on experience applying advanced technologies to solve real-world problems. Strong focus on <b>Artificial Intelligence</b>, <b>Data Science</b>, and <b>Robotics</b> with successful development and deployment of machine learning models. Expertise includes applications in <b>Computer Vision</b>, <b>Natural Language Processing (NLP)</b>, <b>Edge Computing</b> etc. Continuously learning and exploring new technologies, from AI Agents and Retrieval-Augmented Generation (RAG) to LLMs and Rust for systems programming.
 </p>
 
 
